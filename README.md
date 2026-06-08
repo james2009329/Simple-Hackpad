@@ -40,14 +40,11 @@ This hackpad runs [KMK](https://kmkfw.io/) firmware on the XIAO RP2040.
 
 | Part | Qty |
 |------|-----|
-| Cherry MX Switches | 4 |
-| Keycaps (DSA or similar) | 4 |
+| Cherry MX Switches | 3 |
+| Keycaps (DSA or similar) | 3 |
 | EC11 Rotary Encoder + knob | 1 |
 | 0.91" 128x32 OLED Display | 1 |
 | Seeed XIAO RP2040 | 1 |
-| 1N4148 Diodes (DO-35) | 4 |
-| M3x5x4 Heatset inserts | 4 |
-| M3x12mm SHCS Bolts | 4 |
 | 3D Printed Case | 1 set |
 
 ## Credits
