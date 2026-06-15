@@ -7,7 +7,7 @@ Just a simple Hackpad with 3 switches, an OLED screen, and rotary encoder. It wa
 
 ## Features
 
-- 4 mechanical key switches
+- 3 mechanical key switches
 - EC11 Rotary encoder
 - 128x32 OLED display
 - Seeed XIAO RP2040 microcontroller
